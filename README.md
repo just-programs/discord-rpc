@@ -3,6 +3,12 @@ This repository is a default RPC for Discord, wrote on Java
 
 But you're need to config that RPC.
 
+!!!WARNING!!!
+
+If you wanna display it how RPC, it need app in https://discordapp.com/developers/applications/
+
+Then copy client ID, load photos (e.g. link: https://discordapp.com/developers/applications/#your-app#/rich-presence/assets) and put this fragments in code.
+
 # configuration
 1st step: download source code and put it in any folder. (e.g.: Desktop/discord-rpc)
 
