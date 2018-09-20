@@ -9,6 +9,8 @@ If you wanna display it how RPC, it need app in https://discordapp.com/developer
 
 Then copy client ID, load photos (e.g. link: https://discordapp.com/developers/applications/#your-app#/rich-presence/assets) and put this fragments in code.
 
+Also, download library (lib folder), 'cause RPC will not work w/out this library. (put it in Build Path)
+
 # configuration
 1st step: download source code and put it in any folder. (e.g.: Desktop/discord-rpc)
 
