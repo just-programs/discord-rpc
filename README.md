@@ -1,22 +1,17 @@
 # discord-rpc
-This repository is a default RPC for Discord, wrote on Java
+Java-wrote RPC for Discord.
 
-But you're need to config that RPC.
+Also, you need a library in lib folder, because it'll don't work.
 
-!!!WARNING!!!
+# Configuration
+1st: create an app in https://discordapp.com/developers/applications/
 
-If you wanna display it how RPC, it need app in https://discordapp.com/developers/applications/
+2nd: copy client ID, load photos (e.g. link: https://discordapp.com/developers/applications/#your-app#/rich-presence/assets) and put this fragments in code, code is described.
 
-Then copy client ID, load photos (e.g. link: https://discordapp.com/developers/applications/#your-app#/rich-presence/assets) and put this fragments in code.
+3rd: download source code and put it in any folder.
 
-Also, download library (lib folder), 'cause RPC will not work w/out this library. (put it in Build Path)
+4th: open your Eclipse/IJ Idea and make project in this folder ('cause there are src folder)
 
-# configuration
-1st step: download source code and put it in any folder. (e.g.: Desktop/discord-rpc)
+5th: edit .java classes to yourself.
 
-2nd step: open Eclipse and switch workspace to that folder.
-
-3rd step: edit .java classes to you. (I put some description in classes)
-
-# done
-Launch in Eclipse/export it and launch your RPC and its done.
+Done! Also, for window you can edit window.java.
